@@ -20,3 +20,13 @@ body{
 #toolbar {
     display: flex;
 }
+#coolwold {
+    background-color: #fff
+   
+}
+#jesus {
+    text-align: center;
+    background-color: #000
+    border 10px;
+    border-color: #ec1919;
+}
