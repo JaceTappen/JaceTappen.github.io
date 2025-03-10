@@ -12,7 +12,6 @@ if (stylemode == 'dark') {
     stylelink.href = 'css/light.css';
     document.cookie = 'light';
 }
-
 // Common Event
 function switchmode() {
     //Conditional Statement with Else Branch
