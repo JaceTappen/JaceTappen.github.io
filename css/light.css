@@ -21,13 +21,16 @@ body{
     display: flex;
 }
 #coolwold  {
-        background-color: #000
-        border 10px;
-        border-color: #ec1919;
+        color: brown;
 }
 #jesus {
     text-align: center;
     background-color: #000
     border 10px;
     border-color: #ec1919;
+}
+#bar {
+    color: green;
+    background-color: lightblue ;
+    border: 5px solid blue ;
 }
